@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Hipixel Bot 24/7",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "mc_Hipixel_net.aternos.me",
+    "port": 26583,
     "version": "1.21.1"
   },
   "position": {
